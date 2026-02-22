@@ -172,7 +172,7 @@ footer{
     <div class="payment-box">
         <p>You can pay using UPI / Google Pay / PhonePe.</p>
         <br>
-        <strong>UPI Number:</strong> 9611054409
+        <strong>UPI Number:</strong> +91 94487 35987
         <br><br>
         <p>After payment, please send screenshot on WhatsApp for confirmation.</p>
         <br>
