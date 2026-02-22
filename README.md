@@ -129,7 +129,25 @@ footer{
 </head>
 
 <body>
+<section style="text-align:center; padding:40px 20px; background:#f9fff5;">
+    
+    <img src="main-product.jpg" 
+         alt="AS Natural Food 300g Product" 
+         style="width:100%; max-width:500px; border-radius:20px; box-shadow:0 10px 30px rgba(0,0,0,0.2);">
 
+    <h1 style="margin-top:20px; font-size:32px; color:#2e7d32;">
+        AS Natural Food
+    </h1>
+
+    <p style="font-size:18px; color:#555;">
+        100% Homemade | Healthy Weight Gain | Glowing Skin | Strong Hair
+    </p>
+
+    <h2 style="color:#d32f2f; font-size:26px;">
+        300g – ₹250
+    </h2>
+
+</section>
 <header>
     <h2>AS Natural Food</h2>
     <div>
